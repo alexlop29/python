@@ -12,5 +12,5 @@ pipenv shell
 
 ### Formatting
 ```
-make lint
+make format
 ```

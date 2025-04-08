@@ -1,2 +1,5 @@
+format:
+	pipenv run black .
+
 lint:
-	pipenv run python -m black .
+	pipenv run flake8 .
