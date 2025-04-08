@@ -9,3 +9,8 @@ pipenv install --python 3.13
 ```
 pipenv shell
 ```
+
+### Formatting
+```
+make lint
+```
